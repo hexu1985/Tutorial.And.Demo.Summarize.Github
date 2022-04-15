@@ -1,0 +1,33 @@
+[submodule "Cpp.Standard.Library.Reimplement"]
+	path = Cpp.Standard.Library.Reimplement
+	url = git@github.com:hexu1985/Cpp.Standard.Library.Reimplement.git
+[submodule "Collection.Of.Cpp.Utility.Class"]
+	path = Collection.Of.Cpp.Utility.Class
+	url = git@github.com:hexu1985/Collection.Of.Cpp.Utility.Class.git
+[submodule "Gflags.And.Glog.Tutorial"]
+	path = Gflags.And.Glog.Tutorial
+	url = git@github.com:hexu1985/Gflags.And.Glog.Tutorial.git
+[submodule "GoogleTest.Tutorial"]
+	path = GoogleTest.Tutorial
+	url = git@github.com:hexu1985/GoogleTest.Tutorial.git
+[submodule "Qt.Programming.Tutorial"]
+	path = Qt.Programming.Tutorial
+	url = git@github.com:hexu1985/Qt.Programming.Tutorial.git
+[submodule "Linux.Socket.Programming.Tutorial"]
+	path = Linux.Socket.Programming.Tutorial
+	url = git@github.com:hexu1985/Linux.Socket.Programming.Tutorial.git
+[submodule "Data.Structures.And.Algorithms.Tutorial"]
+	path = Data.Structures.And.Algorithms.Tutorial
+	url = git@github.com:hexu1985/Data.Structures.And.Algorithms.Tutorial.git
+[submodule "C.And.Cpp.Compiling.Tutorial"]
+	path = C.And.Cpp.Compiling.Tutorial
+	url = git@github.com:hexu1985/C.And.Cpp.Compiling.Tutorial.git
+[submodule "SQLite.Tutorial"]
+	path = SQLite.Tutorial
+	url = git@github.com:hexu1985/SQLite.Tutorial.git
+[submodule "Markdown.Tutorial"]
+	path = Markdown.Tutorial
+	url = git@github.com:hexu1985/Markdown.Tutorial.git
+[submodule "Collection.Of.Linux.Tools"]
+	path = Collection.Of.Linux.Tools
+	url = git@github.com:hexu1985/Collection.Of.Linux.Tools.git
